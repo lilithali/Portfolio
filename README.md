@@ -40,3 +40,17 @@ Implemented a WebGL/GLSL ray tracer with geometric intersections, shadow rays, r
 - Implemented Fresnel reflectance and Boolean geometry operations.
 
 [View Project Repository](https://github.com/lilithali/ray-tracing)
+
+### Remote Sensing Image Editing
+
+A research project using diffusion models to edit dual-temporal remote sensing imagery and augment imbalanced change-captioning datasets.
+
+**Highlights:**
+- Fine-tuned InstructPix2Pix for instruction-guided remote sensing image editing
+- Generated 5,230 edited remote sensing images
+- Expanded the Levir-MCI dataset for downstream change captioning
+- Evaluated the augmented dataset using RSICCformer
+
+**Technologies:** Python, PyTorch, Stable Diffusion, InstructPix2Pix, Diffusers, Transformers, CLIP
+
+[View Project Repository](https://github.com/lilithali/remote-sensing-image-editing)
