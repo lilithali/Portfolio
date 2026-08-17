@@ -26,4 +26,4 @@ Implemented a face morphing pipeline using facial landmarks, Delaunay triangulat
 * Implemented affine transformation and bilinear interpolation.
 * Generated smooth intermediate frames and a morphing video.
 
-Repository and demo coming soon.
+[View Project Repository](https://github.com/lilithali/face-morphing)
